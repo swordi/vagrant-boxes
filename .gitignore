@@ -1,2 +1,6 @@
 **/.vagrant
 **/*.box
+**/*.box.md5
+cq-5/**/logs
+cq-5/**/*.jar
+cq-5/**/license.properties
